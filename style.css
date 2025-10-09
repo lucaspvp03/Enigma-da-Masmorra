@@ -4,10 +4,12 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    font-family: "Aladin", system-ui;
+    font-size: 19px;
 }
 
 .img01{
-    width: 120%;
+    width: 105%;
 }
 
 button{
